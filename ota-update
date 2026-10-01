@@ -1,2 +1,2 @@
-availability-update: yes
-url: 
+availability-update: "yes"
+url: "https://github.com/Jcluis5847/ota-update/raw/refs/heads/main/app-debug.apk"
