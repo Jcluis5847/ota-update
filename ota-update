@@ -1,2 +1,3 @@
 availability-update: "yes"
 url: "https://github.com/Jcluis5847/ota-update/raw/refs/heads/main/app-debug.apk"
+version: "1.0.0"
